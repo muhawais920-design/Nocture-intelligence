@@ -1,0 +1,6 @@
+{
+  "name": "Nocturne Intelligence",
+  "description": "A forward-leaning, high-intelligence student ecosystem tailored for modern university life with dark-mode ambient glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
